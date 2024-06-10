@@ -12,7 +12,7 @@ For further details, please visit: https://docs.melissa.com/on-premise-api/globa
 ## Tested Environments
 - Windows 10 64-bit .NET 7.0, Powershell 5.1
 - Linux 64-bit .NET 7.0, Ubuntu 20.04.05 LTS
-- Melissa Global Address Object for 2024-Q1
+- Melissa Global Address Object for 2024-Q2
 - Wrapper file(s) have not changed since 2024-Q1
 
 ## Getting Started
