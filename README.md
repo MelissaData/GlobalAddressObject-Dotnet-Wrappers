@@ -12,15 +12,15 @@ For further details, please visit: https://docs.melissa.com/on-premise-api/globa
 ## Tested Environments
 - Windows 10 64-bit .NET 7.0, Powershell 5.1
 - Linux 64-bit .NET 7.0, Ubuntu 20.04.05 LTS
-- Melissa Global Address Object for 2024-Q3
+- Melissa Global Address Object for 2024-Q4
 - Wrapper file(s) have not changed since 2024-Q1
 
 ## Getting Started
 
 ### Download this project
 ```
-$ git clone https://github.com/MelissaData/GlobalAddressObject-Dotnet-Wrappers
-$ cd GlobalAddressObject-Dotnet-Wrappers
+git clone https://github.com/MelissaData/GlobalAddressObject-Dotnet-Wrappers
+cd GlobalAddressObject-Dotnet-Wrappers
 ```
 
 ### Copy wrappers to your project folder
@@ -51,13 +51,13 @@ Parameters:
 - license (optional): a license key to run the powershell script
 
 ```
-$ .\BuildGlobalAddrNETdll.ps1
+.\BuildGlobalAddrNETdll.ps1
 ```
 
 or
 
 ```
-$ .\BuildGlobalAddrNETdll.ps1 -license "<your_license_key>"
+.\BuildGlobalAddrNETdll.ps1 -license "<your_license_key>"
 ```
 
 ## See also
